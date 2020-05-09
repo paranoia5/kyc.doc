@@ -1,4 +1,8 @@
 <!-- docs/_sidebar.md -->
 
 - [Get Started](GetStarted.md)
-- [Installation](installation.md "The greatest guide in the world")
+- [Built With](builtwith.md)
+- [Installation](installation.md)
+- [Themes](theme.md)
+- [Release Notes](release.md)
+- [Licenses](license.md)
