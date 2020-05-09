@@ -2,7 +2,7 @@
 
 ## Tech and Packages
 
-The app is built based on [react-native] and [Expo] framework. The app is using functional components and [react-hooks] (useState, useEffect, useContext, useReducer, useRef , ...etc) & [Context API] for state management, and [typescript] for static type-checking along with the latest ECMAScript features. We used [react-navigation V5] for handling stack navigation, tabs, and top bars. We have also used [native-base] and [paper] for some of our UI components
+The app is built based on [react-native] and [Expo] framework. For data storage, we use [Keychain] to provide a way to encrypt and securely store key–value pairs locally on the device.The app is using functional components and [react-hooks] (useState, useEffect, useContext, useReducer, useRef , ...etc) & [Context API] for state management, and [typescript] for static type-checking along with the latest ECMAScript features. We used [react-navigation V5] for handling stack navigation, tabs, and top bars. We have also used [native-base] and [paper] for some of our UI components
 
 Check out the app package.json here:
 
@@ -60,3 +60,4 @@ You probably have heard too much about Redux for state management. [Redux] is co
 [react-navigation v5]: https://reactnavigation.org/docs/getting-started/
 [native-base]: https://docs.nativebase.io/
 [paper]: https://callstack.github.io/react-native-paper/index.html
+[keychain]: https://developer.apple.com/documentation/security/keychain_services

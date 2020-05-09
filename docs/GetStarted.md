@@ -17,6 +17,7 @@ KYC uses a number of open source technology to work properly:
 - [React-Native] - native apps for Android and iOS using React
 - [Expo] - framework that helps you turn your ideas into performant universal apps before installing a thing
 - [Typescript] - TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+- [Keychain]: to provide a way to encrypt and securely store key–value pairs locally on the device
 
 ## Quick Test
 
@@ -34,3 +35,4 @@ please drop me a message at ali.makeen@icloud.com
 [react-native]: https://facebook.github.io/react-native
 [expo]: https://expo.io/
 [typescript]: https://www.typescriptlang.org/
+[keychain]: https://developer.apple.com/documentation/security/keychain_services
