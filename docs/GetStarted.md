@@ -4,11 +4,19 @@
 
 ![](_media/intro1.png)
 
-<!-- <img src="_media/intro1.jpg" data-canonical-src="_media/intro1.jpg" width="822" height="548" /><br /><br /> -->
-
 ## Definition
 
 The KYC app expedites the process of verifying customer identity through AI models. The app redefines the end user experience of the KYC & ID verification process. It is ideal for organizations looking to deploy an identity solution that helps them verify and authenticate users by confirming that they are who and where they say they are.
+
+## Features
+
+- Selfie Camera with Face Recognition
+- AI powered Face Matching (selfie face and document profile photo)
+- Document OCR (Extracting data from images using computer vision)
+- verification progress calculation based on face matching and OCR processes.
+- saving users information on device secure storage (keychain)
+- Securing the app with PIN code.
+- flexibility to extend features to have an extra verfication with human intervention.
 
 ## Tech Stack
 
