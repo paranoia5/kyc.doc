@@ -2,6 +2,7 @@
 
 There are a few things you need to know before you start testing the app:
 
+- **we support passport document only**
 - [NativeBase] doesn't collect or store any information you use during your testing.
 - [appducks api] doesn't persist your data. It wipes up all images every now and then. read more about it [here]
 - You have 3 ways to test the app:

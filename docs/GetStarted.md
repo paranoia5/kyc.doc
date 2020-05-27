@@ -12,7 +12,7 @@ The KYC app expedites the process of verifying customer identity through AI mode
 
 - Selfie Camera with Face Recognition
 - AI powered Face Matching (selfie face and document profile photo)
-- Document OCR (Extracting data from images using computer vision)
+- Document OCR (Extracting data from images using computer vision) - **we support passport document only**
 - verification progress calculation based on face matching and OCR processes.
 - saving users information on device secure storage (keychain)
 - Securing the app with PIN code.
