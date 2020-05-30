@@ -37,10 +37,11 @@ scan the following QR code:
 
 ### iOS
 
-please drop me a message at ali.makeen@icloud.com
+please drop me a [message]
 
 [//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
 [react-native]: https://facebook.github.io/react-native
 [expo]: https://expo.io/
 [typescript]: https://www.typescriptlang.org/
 [keychain]: https://developer.apple.com/documentation/security/keychain_services
+[message]: mailto:ali.makeen@icloud.com

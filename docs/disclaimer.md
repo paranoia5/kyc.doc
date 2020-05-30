@@ -9,7 +9,7 @@ There are a few things you need to know before you start testing the app:
 
   - use your own passport if you do not have any privacy concerns.
   - If you are having any privacy concerns, use fake passport for testing. You can find a lot in google serach. You can use [this image].
-  - If you purchased the app already, you can esily upload your images into your own server. All you need is to change the /image/upload from [appducks API] to point to your own image uploading api. Just go to `src/store/actions.ts'` and change the following method:
+  - If you purchased the app already, you can easily upload your images into your own server. All you need is to change the /image/upload from [appducks API] to point to your own image uploading api. Just go to `src/store/actions.ts'` and change the following method:
 
   ```
   export const uploadFace = async (photo: any): Promise<any> => {
